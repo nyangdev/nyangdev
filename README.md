@@ -1,4 +1,4 @@
-### Hi Welcome, I'm MINJI KIM 👋
+## MINJI KIM
 
 #### Data Engineer
 
