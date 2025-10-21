@@ -10,3 +10,5 @@
 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-d14836?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/@nyangdev-y9i)](https://www.youtube.com/@nyangdev-y9i)
   [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@nyangdev)](https://velog.io/@nyangdev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyangdev)](https://github.com/nyangdev/github-readme-stats)
